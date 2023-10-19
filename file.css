@@ -1,6 +1,6 @@
 .navbar {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     background-color: white;
     color: black;
@@ -20,8 +20,9 @@
 
 .icons {
     display: flex;
-    align-items: center;
+    
     color:black;
+        
     
 }
 
